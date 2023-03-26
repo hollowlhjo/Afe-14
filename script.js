@@ -49,3 +49,6 @@
 // console.log("Max: " + max)
 // console.log("Min: " + min)
 // console.log("Average: " + avg)
+
+// array = Array(0, 1, 2, 3)
+// array.slice(-2)
